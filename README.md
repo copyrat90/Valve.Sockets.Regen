@@ -1,3 +1,5 @@
+# This fork is DEPRECATED, use my brand new binding [GnsSharp](https://github.com/nalchi-net/GnsSharp) instead.
+
 # Valve.Sockets.Regen
 
 This repository provides (mostly) auto-generated C# bindings for [GameNetworkingSockets](https://github.com/ValveSoftware/GameNetworkingSockets) which is a library created and maintained by [Valve Software](https://www.valvesoftware.com).
